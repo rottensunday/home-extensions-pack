@@ -2,7 +2,7 @@
     "name": "home-front-pack",
     "displayName": "HomE Front Pack",
     "description": "Packages used for HomE development",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -15,12 +15,14 @@
         "dbaeumer.vscode-eslint",
         "ghmcadams.lintlens",
         "esbenp.prettier-vscode",
-        "mike-co.import-sorter"
+        "mike-co.import-sorter",
+        "adrianwilczynski.csharp-to-typescript"
     ],
     "publisher": "home-extensions",
     "repository": {
         "url": "https://github.com/rottensunday/home-extensions-pack"
     },
     "license": "mit",
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "dependencies": {}
 }
