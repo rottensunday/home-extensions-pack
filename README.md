@@ -6,3 +6,4 @@
 4. LintLens
 5. Prettier
 6. Typescript Import Sorter
+7. C# to TypeScript
