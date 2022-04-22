@@ -1,0 +1,25 @@
+{
+    "name": "home-front-pack",
+    "displayName": "HomE Front Pack",
+    "description": "Packages used for HomE development",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "Angular.ng-template",
+        "cyrilletuzi.angular-schematics",
+        "dbaeumer.vscode-eslint",
+        "ghmcadams.lintlens",
+        "esbenp.prettier-vscode",
+        "mike-co.import-sorter"
+    ],
+    "publisher": "home-extensions",
+    "repository": {
+        "url": "https://github.com/rottensunday/home-extensions-pack"
+    },
+    "license": "mit"
+}
